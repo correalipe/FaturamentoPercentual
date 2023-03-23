@@ -1,0 +1,15 @@
+C:\Users\felipe.lcorrea\source\repos\FaturamentoPercentual\obj\Debug\net6.0\FaturamentoPercentual.csproj.AssemblyReference.cache
+C:\Users\felipe.lcorrea\source\repos\FaturamentoPercentual\obj\Debug\net6.0\FaturamentoPercentual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\felipe.lcorrea\source\repos\FaturamentoPercentual\obj\Debug\net6.0\FaturamentoPercentual.AssemblyInfoInputs.cache
+C:\Users\felipe.lcorrea\source\repos\FaturamentoPercentual\obj\Debug\net6.0\FaturamentoPercentual.AssemblyInfo.cs
+C:\Users\felipe.lcorrea\source\repos\FaturamentoPercentual\obj\Debug\net6.0\FaturamentoPercentual.csproj.CoreCompileInputs.cache
+C:\Users\felipe.lcorrea\source\repos\FaturamentoPercentual\bin\Debug\net6.0\FaturamentoPercentual.exe
+C:\Users\felipe.lcorrea\source\repos\FaturamentoPercentual\bin\Debug\net6.0\FaturamentoPercentual.deps.json
+C:\Users\felipe.lcorrea\source\repos\FaturamentoPercentual\bin\Debug\net6.0\FaturamentoPercentual.runtimeconfig.json
+C:\Users\felipe.lcorrea\source\repos\FaturamentoPercentual\bin\Debug\net6.0\FaturamentoPercentual.dll
+C:\Users\felipe.lcorrea\source\repos\FaturamentoPercentual\bin\Debug\net6.0\FaturamentoPercentual.pdb
+C:\Users\felipe.lcorrea\source\repos\FaturamentoPercentual\obj\Debug\net6.0\FaturamentoPercentual.dll
+C:\Users\felipe.lcorrea\source\repos\FaturamentoPercentual\obj\Debug\net6.0\refint\FaturamentoPercentual.dll
+C:\Users\felipe.lcorrea\source\repos\FaturamentoPercentual\obj\Debug\net6.0\FaturamentoPercentual.pdb
+C:\Users\felipe.lcorrea\source\repos\FaturamentoPercentual\obj\Debug\net6.0\FaturamentoPercentual.genruntimeconfig.cache
+C:\Users\felipe.lcorrea\source\repos\FaturamentoPercentual\obj\Debug\net6.0\ref\FaturamentoPercentual.dll
